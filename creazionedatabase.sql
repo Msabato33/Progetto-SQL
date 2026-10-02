@@ -165,3 +165,5 @@ Uno studente può frequentare diversi corsi , un corso può avere più studenti
         FOREIGN KEY (CorsoId) REFERENCES Corsi(CorsoId),
         FOREIGN KEY (AulaId) REFERENCES Aule(AulaId) 
         );
+
+        --aggiornamentoS
